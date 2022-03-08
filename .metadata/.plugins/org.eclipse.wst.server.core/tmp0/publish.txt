@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Tue Mar 08 18:27:15 IST 2022
+org.eclipse.jst.jee.server\:ServletGetPost=C\:\\Users\\ASUS\\apache-tomcat-8.5.76\\wtpwebapps\\ServletGetPost
