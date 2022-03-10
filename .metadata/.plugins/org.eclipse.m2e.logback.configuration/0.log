@@ -282,3 +282,60 @@
 2022-03-10 17:25:37,182 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\CookieTrackingDemo\src\main\resources
 2022-03-10 17:25:37,183 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-10 17:25:37,184 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\CookieTrackingDemo\src\test\resources
+2022-03-10 17:55:08,193 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: URLRewriteDemo:URLRewriteDemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\URLRewriteDemo\pom.xml.
+2022-03-10 17:55:09,012 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /URLRewriteDemo/src/main/java
+2022-03-10 17:55:09,024 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /URLRewriteDemo/src/test/java
+2022-03-10 17:55:09,212 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-10 17:55:09,364 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: URLRewriteDemo:URLRewriteDemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\URLRewriteDemo\pom.xml.
+2022-03-10 17:55:09,642 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /URLRewriteDemo/src/main/java
+2022-03-10 17:55:09,643 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /URLRewriteDemo/src/test/java
+2022-03-10 17:55:09,742 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for URLRewriteDemo
+2022-03-10 17:55:09,754 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-10 17:55:09,883 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:09,897 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\main\resources
+2022-03-10 17:55:09,898 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:10,014 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\test\resources
+2022-03-10 17:55:10,014 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of URLRewriteDemo
+2022-03-10 17:55:10,015 [Worker-56: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for URLRewriteDemo
+2022-03-10 17:55:10,017 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:37,306 [Worker-52: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: URLRewriteDemo:URLRewriteDemo:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\URLRewriteDemo\pom.xml.
+2022-03-10 17:55:38,050 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:38,051 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\main\resources
+2022-03-10 17:55:38,052 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:38,053 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\test\resources
+2022-03-10 17:55:38,053 [Worker-52: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of URLRewriteDemo
+2022-03-10 17:55:38,053 [Worker-52: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for URLRewriteDemo
+2022-03-10 17:55:38,055 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:39,271 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:39,272 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\main\resources
+2022-03-10 17:55:39,273 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:55:39,273 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\test\resources
+2022-03-10 17:56:16,218 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:56:16,219 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\main\resources
+2022-03-10 17:56:16,220 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 17:56:16,221 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\test\resources
+2022-03-10 18:02:12,190 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FormFieldsTracking:FormFieldsTracking:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\FormFieldsTracking\pom.xml.
+2022-03-10 18:02:13,583 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FormFieldsTracking/src/main/java
+2022-03-10 18:02:13,592 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FormFieldsTracking/src/test/java
+2022-03-10 18:02:13,785 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-10 18:02:13,888 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FormFieldsTracking:FormFieldsTracking:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\FormFieldsTracking\pom.xml.
+2022-03-10 18:02:14,121 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FormFieldsTracking/src/main/java
+2022-03-10 18:02:14,122 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FormFieldsTracking/src/test/java
+2022-03-10 18:02:14,195 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for FormFieldsTracking
+2022-03-10 18:02:14,203 [Worker-59: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-10 18:02:14,331 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:14,334 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\FormFieldsTracking\src\main\resources
+2022-03-10 18:02:14,335 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:14,336 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\FormFieldsTracking\src\test\resources
+2022-03-10 18:02:14,336 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FormFieldsTracking
+2022-03-10 18:02:14,336 [Worker-66: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FormFieldsTracking
+2022-03-10 18:02:14,338 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:31,636 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FormFieldsTracking:FormFieldsTracking:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\FormFieldsTracking\pom.xml.
+2022-03-10 18:02:31,822 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:31,823 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\FormFieldsTracking\src\main\resources
+2022-03-10 18:02:31,824 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:31,825 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\FormFieldsTracking\src\test\resources
+2022-03-10 18:02:31,825 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of FormFieldsTracking
+2022-03-10 18:02:31,825 [Worker-61: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for FormFieldsTracking
+2022-03-10 18:02:31,828 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-10 18:02:32,946 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
