@@ -476,3 +476,7 @@
 2022-03-12 12:31:33,972 [Worker-74: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\JDBCSetup\src\main\resources
 2022-03-12 12:31:33,973 [Worker-74: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-12 12:31:33,974 [Worker-74: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\JDBCSetup\src\test\resources
+2022-03-12 12:31:42,948 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-12 12:31:42,949 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\JDBC Setup Prepared Statement\src\main\resources
+2022-03-12 12:31:42,949 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-12 12:31:42,951 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\JDBC Setup Prepared Statement\src\test\resources
