@@ -718,3 +718,4 @@
 2022-03-13 14:07:38,057 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-13 14:07:38,058 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\User-Login-validation\src\main\resources
 2022-03-13 14:07:38,059 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-13 14:07:38,059 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\User-Login-validation\src\test\resources
