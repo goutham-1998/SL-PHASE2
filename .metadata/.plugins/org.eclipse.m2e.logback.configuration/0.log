@@ -1386,3 +1386,35 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2022-03-16 10:57:05,853 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\LoginLogout\src\test\resources
 2022-03-16 10:57:05,927 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-03-16 10:57:05,928 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\Product_Details\src\main\resources
+2022-03-16 10:57:05,930 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 10:57:05,931 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\Product_Details\src\test\resources
+2022-03-16 10:57:06,568 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 10:57:06,569 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\main\resources
+2022-03-16 10:57:06,569 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 10:57:06,570 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\URLRewriteDemo\src\test\resources
+2022-03-16 10:57:06,608 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 10:57:06,608 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\User-Login-validation\src\main\resources
+2022-03-16 10:57:06,609 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 10:57:06,609 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\User-Login-validation\src\test\resources
+2022-03-16 11:50:14,370 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Product-Details-Portal:Product-Details-Portal:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\Product-Details-Portal\pom.xml.
+2022-03-16 11:50:14,931 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/main/java
+2022-03-16 11:50:14,932 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/test/java
+2022-03-16 11:51:22,871 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-16 11:51:23,105 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Product-Details-Portal:Product-Details-Portal:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\Product-Details-Portal\pom.xml.
+2022-03-16 11:51:23,331 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/main/java
+2022-03-16 11:51:23,332 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/test/java
+2022-03-16 11:51:23,497 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Product-Details-Portal
+2022-03-16 11:51:23,539 [Worker-68: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-03-16 11:52:37,812 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Product-Details-Portal:Product-Details-Portal:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\Product-Details-Portal\pom.xml.
+2022-03-16 11:52:38,515 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/main/java
+2022-03-16 11:52:38,521 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/test/java
+2022-03-16 11:52:38,889 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-03-16 11:52:39,250 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Product-Details-Portal:Product-Details-Portal:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\Product-Details-Portal\pom.xml.
+2022-03-16 11:52:40,282 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/main/java
+2022-03-16 11:52:40,282 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product-Details-Portal/src/test/java
+2022-03-16 11:52:40,433 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Product-Details-Portal
+2022-03-16 11:52:40,444 [Worker-69: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-03-16 11:58:59,410 [Worker-57: Build Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Product-Details-Portal:Product-Details-Portal:0.0.1-SNAPSHOT @ C:\Users\ASUS\SL\Phase2\Product-Details-Portal\pom.xml.
+2022-03-16 11:58:59,935 [Worker-57: Build Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-03-16 11:58:59,936 [Worker-57: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ASUS\SL\Phase2\Product-Details-Portal\src\main\resources
+2022-03-16 11:58:59,937 [Worker-57: Build Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
